@@ -17,7 +17,3 @@ This repository contains a set of Java programming exercises completed during th
 
 ## Purpose
 This repository is part of my learning journey in Java programming and will serve as a foundation for more advanced projects in the future.
-
----
-
-Created by: Wejdan
