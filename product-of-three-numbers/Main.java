@@ -1,15 +1,22 @@
-# Product of Three Numbers
+import java.util.Scanner;
 
-## Description
-This is a simple Java program that reads three double numbers from the user and calculates their product.
+public class ProductCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-## Concepts
-- Basic input/output
-- Variables
-- Arithmetic operations
+        System.out.print("Enter first number: ");
+        double num1 = scanner.nextDouble();
 
-## Input
-Three double values from the user.
+        System.out.print("Enter second number: ");
+        double num2 = scanner.nextDouble();
 
-## Output
-The product of the three numbers.
+        System.out.print("Enter third number: ");
+        double num3 = scanner.nextDouble();
+
+        double product = num1 * num2 * num3;
+
+        System.out.println("The product is: " + product);
+        
+        scanner.close();
+    }
+}
