@@ -22,3 +22,8 @@ This project is an Object-Oriented Programming system that models a school struc
 ![School System Diagram](diagram.png)
 
 
+## Team Members
+
+- Raghad Oteef (GitHub: https://github.com/raghad-o)
+- Wejdan Hakami (GitHub: https://github.com/wejdan-h)
+- Aryam Zalaei (GitHub: https://github.com/Aryam-Z)
